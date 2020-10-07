@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="change_text">Change Text ...</string>
+    <string name="enter_a_text">Enter a Text</string>
+</resources>
